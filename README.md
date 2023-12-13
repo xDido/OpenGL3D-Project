@@ -3,7 +3,7 @@
 This a small 3D project using OpenGL, C++, and glut.h.
 
 - - - -
-# Controls
+## Controls
 Key | Action| Key | Action
 ------------- | ------------- | ------------- | -------------
 <kbd>→</kbd> | Move right | <kbd>I</kbd> | Rotate camera up
@@ -14,7 +14,9 @@ Key | Action| Key | Action
 <kbd>D</kbd> | Camera right | <kbd>↓</kbd>  | Move down
 <kbd>Q</kbd>  | Zoom out |  <kbd>E</kbd>  | Zoom In
 
-
+- - - -
+## How to run ?
+clone the project into Visual Studio and run it. (simply open the .sln file and run it)
 
 
 
